@@ -180,12 +180,7 @@ export default function LoginPage() {
             <div className="text-center pt-4 border-t border-gray-200">
               <p className="text-sm text-gray-600">
                 Don't have an account?{' '}
-                <Link
-                  href="/register"
-                  className="text-blue-600 hover:text-blue-800 font-medium transition-colors"
-                >
-                  Sign up here
-                </Link>
+                
               </p>
             </div>
           </CardContent>
